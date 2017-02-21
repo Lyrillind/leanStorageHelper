@@ -1,0 +1,30 @@
+{
+  "name": "lean-storage-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Murriouz@github.com/Murriouz/leanStorageHelper.git"
+  },
+  "author": "Murriouz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Murriouz/leanStorageHelper/issues"
+  },
+  "homepage": "https://github.com/Murriouz/leanStorageHelper#readme",
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-eslint": "^7.1.1",
+    "babel-preset-latest": "^6.22.0",
+    "babel-register": "^6.23.0",
+    "eslint": "^3.16.0"
+  },
+  "dependencies": {
+    "leancloud-storage": "^2.1.2"
+  }
+}
